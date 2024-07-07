@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm passionate about technology and currently focused on enhancing my skills in data structures. I enjoy solving complex problems and am always eager to learn new things. Let's connect and collaborate!
+👋 Hi there! I'm passionate about technology and currently focused on enhancing my skills in data structures. I enjoy solving complex problems and I'm always eager to learn new things. Let's connect and collaborate!
 
 
 # 💻 Tech Stack:
